@@ -1,0 +1,2 @@
+# freecodecamp lessons i learned
+ 
